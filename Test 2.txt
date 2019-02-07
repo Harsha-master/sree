@@ -1,0 +1,2 @@
+git reset --mixed <commit id>git log
+              Reset back all files directly from local repo to workspace area (Ex: git reset --mixed commitd)

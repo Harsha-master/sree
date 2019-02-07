@@ -1,0 +1,2 @@
+ First create new repository in github then copy that repository url paste in cmd its display the files with 
+              repository . Enter into that repository by using <cd reponame/> then create new file,add,commit
